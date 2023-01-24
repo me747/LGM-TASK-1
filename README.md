@@ -1,13 +1,13 @@
 --LGM TASK-1 --> Creating a To-Do list Web Application--
 To-Do-List:
 
-This task is to determine your understanding  of HTML, CSS and Javascript skills along.
+To assess your html,java & css understanding
 
 **Setup:-** <br/>
-For an agile work process and collaborate with each other to be on the same page of the development process I have used : 
+I have used the following Environment to implement the code:
 IDE: Microsoft Visual Code Studio 
 
-**Result:-**
+Working:
 
 1) The To-Do list with the functionality of adding tasks.
 

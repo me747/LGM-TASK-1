@@ -1,7 +1,7 @@
---LGM TASK-1 --> Creating a To-Do list Web Application--
-To-Do-List:
+--LGM TASK-1--
+To-Do-List Web Application:
 
-To assess your html,java & css understanding
+To assess your understanding of html,java & css
 
 **Setup:-** <br/>
 I have used the following Environment to implement the code:
